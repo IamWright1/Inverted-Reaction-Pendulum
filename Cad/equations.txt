@@ -1,0 +1,2 @@
+﻿"ShaftDiameter"= 12mm
+"PendulumDiameter"=10mm
